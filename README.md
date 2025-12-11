@@ -80,12 +80,7 @@ Generates correlation heatmaps for selected indicators in one G7 country.
 - Creates correlation heatmaps  
 - Generates energy production line plots  
 
-### Main Script Tasks:
-- Loads and preprocesses dataset  
-- Filters the G7 countries  
-- Creates bar charts  
-- Creates correlation heatmaps  
-- Generates energy production line plots  
+
 
 
 
